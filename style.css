@@ -1,0 +1,10 @@
+.panda-btn{
+    color: white;
+    background-image:  linear-gradient(to bottom, rgb(243, 50, 108) , rgb(247, 49, 214));
+}
+.wd100{
+    width: 100px;
+}
+.bg-color{
+    background-color: rgb(245, 195, 195);
+}
